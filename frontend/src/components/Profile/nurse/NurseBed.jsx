@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React,{useState, useEffect} from "react";
 import { NavLink } from "react-router-dom";
 import profilePic from "../../../assets/doct5.jpg";
@@ -37,7 +38,7 @@ function NurseBed() {
   
     fetchData();
   
-  }, []);
+  }, [currentUser.email]);
 
   return (
     <section className="bg-slate-300 flex justify-center items-center">
