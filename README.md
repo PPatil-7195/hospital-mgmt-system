@@ -57,9 +57,6 @@ Before you begin, ensure you have the following installed:
 
 We welcome contributions! Please follow our contribution guidelines.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 Thanks to the MERN and Redux TailwindCSS communities for their amazing tools and resources.
 
